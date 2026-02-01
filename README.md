@@ -1,8 +1,9 @@
 # meowix
-nix configuration but with a little bit of meow
+Nix configuration but with a little bit of "meow"
 
-#### stage: development
-checklist
+### Stage: Development
+Checklist
+
 [ ] Basic modular config
 [ ] Expand modular config
 [ ] Add multiple hosts support
